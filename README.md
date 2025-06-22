@@ -6,6 +6,12 @@ This project was created to enhance my skills in form handling, user input valid
 
 🔗👉 click here to see the live demo -->https://nanthakumar-m.github.io/Tip_Calculator-Html-Css-Javascript/index3.html
 
+## ⚙️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
 ## 💡Core Features
 
 ✅ Input fields for bill amount and tip percentage
@@ -20,3 +26,12 @@ This project was created to enhance my skills in form handling, user input valid
 
 ✅ Responsive button interactions and dynamic result display
 
+## 🎯 Learning Objectives / Concepts Practiced
+
+✅ JavaScript DOM manipulation using getElementById()
+
+✅ Data parsing and number formatting with parseFloat() and toFixed()
+
+✅ Form validation for user input
+
+✅ CSS styling for centered, clean, and modern UI
