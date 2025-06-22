@@ -35,3 +35,10 @@ This project was created to enhance my skills in form handling, user input valid
 ✅ Form validation for user input
 
 ✅ CSS styling for centered, clean, and modern UI
+
+## 📸 Screenshots
+
+![image](https://github.com/user-attachments/assets/b622a031-e4a9-4a33-988e-f5ca9a0ec459)
+
+![image](https://github.com/user-attachments/assets/5f239e0d-2df4-466d-a8c0-d673c8d0d57f)
+
