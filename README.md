@@ -26,7 +26,7 @@ This project was created to enhance my skills in form handling, user input valid
 
 ✅ Responsive button interactions and dynamic result display
 
-## 🎯 Learning Objectives / Concepts Practiced
+## 🎯 What I Gained / Concepts Practiced
 
 ✅ JavaScript DOM manipulation using getElementById()
 
